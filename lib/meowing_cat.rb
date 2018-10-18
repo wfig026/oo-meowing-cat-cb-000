@@ -15,6 +15,6 @@ maru = Cat.new
 maru.name = "Maru"
 maru.meow = "meow!"
 
-puts maru.name
+maru.name
 
-puts maru.meow
+puts ${meow}
