@@ -1,4 +1,4 @@
 ## code your solution here.
-# class cat
-#
-# end
+class cat
+  attr_accessor: name
+end
