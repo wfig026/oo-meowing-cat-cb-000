@@ -17,4 +17,4 @@ maru.meow = "Meow!"
 
 puts maru.name
 
-puts meow
+puts ${meow}
